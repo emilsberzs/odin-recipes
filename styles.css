@@ -1,0 +1,23 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+img {
+    max-width: 300px;
+    max-height: auto;
+}
+
+.ingredients li {
+font-weight: bold;
+}
+
+ul li a {
+    font-size: 20px;
+    
+}
